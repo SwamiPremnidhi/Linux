@@ -1,0 +1,53 @@
+Linux Command
+
+Networking Command:-
+ssh 
+ping 
+ifconfig
+ip
+netstat
+dig
+nslookup
+curl
+wget or curl -O 
+host
+host name
+
+File Permission :-
+ls -l
+chown 
+chgrp
+chmod
+r, w, r
+
+ProcessCommand :-
+top
+ps
+kill <pid>
+free -m
+df -h
+lkbsk
+
+system infomation:-
+cat /etc/redhat-release
+uptime
+hostname
+last reboot
+whoami
+cal
+date
+cat /etc/os  (os details)
+uname -a   (linux system release)
+uname -r    (kernel release)
+
+Hardware info:-
+free -h (human relable)
+cat /proc/cpuinfo
+cat /pro/meminfo
+hpparm -i/dev/sda
+
+performance:-
+top
+mpstat 1 (display process related)
+vmstat 1 (display virtual memory stats)
+iostat 1  (display i/o stats)
