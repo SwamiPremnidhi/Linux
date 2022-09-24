@@ -33,6 +33,9 @@ cat /etc/redhat-release
 uptime
 hostname
 last reboot
+
+
+
 whoami
 cal
 date
